@@ -22,4 +22,5 @@
 
 
 ![Exit Vim Meme from Reddit ProgrammerHumer](https://i.redd.it/fjeuvs8bogm71.jpg "Exit Vim")
-[Meme](https://i.redd.it/fjeuvs8bogm71.jpg)
+
+[(If image doesn't load, click here for meme)](https://i.redd.it/fjeuvs8bogm71.jpg)
