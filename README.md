@@ -1,2 +1,25 @@
-# CIS350-HW2-DeVries
-Repository for CIS350 Homework 2
+# Alec DeVries
+
+- Active Directory, Group Policy, and Windows Administration (including PowerShell)
+- Linux and Open Source Software
+- Multithreaded Server Apps and Processes
+- Databases
+
+## Technical Background
+
+### Experienced in:
+
+- Java
+- SQL
+- HTML \ JS
+- Linux
+
+### Limited Experience in:
+
+- PHP
+- C
+- C#
+
+
+![Exit Vim Meme from Reddit ProgrammerHumer](https://i.redd.it/fjeuvs8bogm71.jpg "Exit Vim")
+[Meme](https://i.redd.it/fjeuvs8bogm71.jpg)
