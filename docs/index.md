@@ -1,17 +1,15 @@
-# CIS 350 Repository for Alec DeVries
+## About Me
 
-# About Me
+### GVSU C.S. Student
 
-## GVSU C.S. Student
-
-## Experience
+### Experience
 
 * Java
 * SQL
 * HTML \ JS
 * Linux
 
-## Other Interests
+### Other Interests
 
 * Network Management
 * Linux and FOSS
